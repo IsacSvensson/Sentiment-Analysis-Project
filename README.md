@@ -7,7 +7,7 @@ The models are tested on different distribututions on train and test data and al
 
 Read the project report for more details.
 
-[Report](Project%Report.pdf)
+[Report](Project-Report.pdf)
 
 ## Dependencies
 - NLTK
